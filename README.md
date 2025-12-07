@@ -61,9 +61,6 @@ $$\theta^{-} \leftarrow (1-\tau)\theta^{-} + \tau\theta$$
 
 ---
 
-## 📊 주요 특징
 
-- **GMM 기반 정책**: 다중 모드 행동 분포 표현
-- **Density Matching**: Critic 기반 Boltzmann 분포 직접 모방
-- **Double Q-Learning**: 과대평가 방지
-- **Soft Target Update**: 안정적인 학습
+
+
