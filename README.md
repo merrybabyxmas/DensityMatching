@@ -18,12 +18,12 @@ python run_policy.py
 
 ---
 
-# 🧠 Density-Matching GMM Policy Reinforcement Learning
+# 📘 Density-Matching GMM Policy Reinforcement Learning
 
-본 프로젝트는 고차원 연속 제어 환경(Humanoid-v4)을 대상으로,  
-정책을 **Gaussian Mixture Model(GMM)**로 표현하고,  
-Critic이 유도하는 **Boltzmann 행동 밀도**를 정책이 직접 모방하도록 학습하는  
-**Density-Matching Reinforcement Learning 알고리즘**을 구현합니다.
+본 프로젝트는 Humanoid-v4를 대상으로,  
+정책을 Gaussian Mixture Model(GMM)로 표현하고,  
+Critic이 유도하는 Q func density를 정책이 직접 모방하도록 학습하는  
+Density-Matching Reinforcement Learning 알고리즘을 구현합니다.
 
 ---
 
