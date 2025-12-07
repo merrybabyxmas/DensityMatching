@@ -60,13 +60,15 @@ $$\mathcal{L}_{\text{critic}} = (Q_1 - y)^2 + (Q_2 - y)^2$$
 $$\theta^{-} \leftarrow (1-\tau)\theta^{-} + \tau\theta$$
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99c42511-7e95-44a1-a3b1-05ca91cba5ff" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3734f728-5db1-45e3-afae-f97cee4c5ee3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1f9be87a-f312-464c-ba4f-3054d15b5343" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a27f2c00-344b-4cf8-a42b-17e2a1dd0699" width="300"/>
+</p>
 
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/99c42511-7e95-44a1-a3b1-05ca91cba5ff" />
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/3734f728-5db1-45e3-afae-f97cee4c5ee3" />
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/1f9be87a-f312-464c-ba4f-3054d15b5343" />
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/a27f2c00-344b-4cf8-a42b-17e2a1dd0699" />
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/687843ef-b6dd-4848-ad2d-03992cd93725" />
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/58475683-7780-4417-8383-3962566d2c9c" />
-<img width="5056" height="2656" alt="Image" src="https://github.com/user-attachments/assets/02ec0715-8f50-4f56-8775-5f55f4ba3feb" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/687843ef-b6dd-4848-ad2d-03992cd93725" width="300"/>
+  <img src="https://github.com/user-attachments/assets/58475683-7780-4417-8383-3962566d2c9c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/02ec0715-8f50-4f56-8775-5f55f4ba3feb" width="300"/>
+</p>
