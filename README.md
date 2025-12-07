@@ -60,6 +60,8 @@ $$\mathcal{L}_{\text{critic}} = (Q_1 - y)^2 + (Q_2 - y)^2$$
 $$\theta^{-} \leftarrow (1-\tau)\theta^{-} + \tau\theta$$
 
 ---
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/99c42511-7e95-44a1-a3b1-05ca91cba5ff" width="300"/>
   <img src="https://github.com/user-attachments/assets/3734f728-5db1-45e3-afae-f97cee4c5ee3" width="300"/>
