@@ -1,4 +1,4 @@
-# 🔧 가상환경 설정 및 실행 방법
+<img width="490" height="254" alt="image" src="https://github.com/user-attachments/assets/3175fe3b-2ab5-438f-994f-cd5ecdc5c7f8" /># 🔧 가상환경 설정 및 실행 방법
 
 ## 1. 가상환경 생성
 ```bash
@@ -65,5 +65,6 @@ $$\theta^{-} \leftarrow (1-\tau)\theta^{-} + \tau\theta$$
 
 ---
 
+<img width="490" height="254" alt="image" src="https://github.com/user-attachments/assets/a0ecb7da-1698-4f8a-ae58-fdb82af08ca0" />
 
 <img width="3822" height="1970" alt="Image" src="https://github.com/user-attachments/assets/844a7b78-ecbf-465f-8a3a-4fc7b661a427" />
