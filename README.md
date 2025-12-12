@@ -17,11 +17,9 @@ python run_policy.py
 ```
 
 ---
-
-
-![Image](https://github.com/user-attachments/assets/a85f63f1-cc59-414f-855b-b525109dea4c)
-![Image](https://github.com/user-attachments/assets/c0e7f0ee-13cf-4e14-a484-085c2f6386e9)
-![Image](https://github.com/user-attachments/assets/f0401ef9-966a-47f1-951b-04a7691ffa1a)
+<img src="https://github.com/user-attachments/assets/a85f63f1-cc59-414f-855b-b525109dea4c" width="400"/>
+<img src="https://github.com/user-attachments/assets/c0e7f0ee-13cf-4e14-a484-085c2f6386e9" width="400"/>
+<img src="https://github.com/user-attachments/assets/f0401ef9-966a-47f1-951b-04a7691ffa1a" width="400"/>
 
 
 # 📘 Density-Matching GMM Policy Reinforcement Learning
